@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "project_posts",
+  "info": {
+    "singularName": "project-post",
+    "pluralName": "project-posts",
+    "displayName": "Project Post"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "md_content": {
+      "type": "richtext"
+    }
+  }
+}
